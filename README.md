@@ -1,1 +1,41 @@
-# 000
++<html>
+<head>
+<meta charset="utf-8">
+<title>潮玩香港 (翁于晏)</title>
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/acme:n4:default.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+<span style="font-family: '微軟正黑體', '標楷體', Arial">2021年3月12日</span>
+<h1 style="color: #0FAF30; text-align: center; font-size: 36px; font-style: normal; font-weight: 400; font-family: '微軟正黑體', '標楷體', Arial;">香港．說走就走</h1>
+<h2 style="color: #CD6B6C; font-family: '微軟正黑體', '標楷體', Arial;">充滿國際魅力的都市</h2>
+<p style="font-family: '微軟正黑體', '標楷體', Arial">在土地有限的情況下，想要創造空間的方法之一，就是建造摩天大樓，根據統計，香港有二百多棟超高大樓，而且造型新穎，樓與樓之間在帷幕牆之內相互輝映成趣。在尖沙嘴、中環一帶，隨時仰天長嘯，會有不斷的驚嘆！</p>
+<img src="images/about/about01.jpg" width="300" height="199" alt=""/>
+<p style="font-family: '微軟正黑體', '標楷體', Arial">著名的大樓包括全世界第四高的環球貿易廣場、國際金融中心、匯豐銀行總行、和和中心、中銀大廈、中環中心、長江集團中心、怡和大廈、中環廣場等等，除了在街上觀賞時可以仰望所以特別感到壯觀，到了太平山欣賞夜景，也因此特別亮麗，因為有這許多大廈連成的天際線分外美好。</p>
+<img src="images/about/about02.jpg" width="300" height="200" alt=""/>
+<hr>
+<h1 style="color: #34B54F; font-family: '微軟正黑體', '標楷體', Arial;">關於這個網站</h1>
+<h2 style="color: #D77A7D; font-family: '微軟正黑體', '標楷體', Arial;">關於旅行的計劃</h2>
+<p style="font-family: '微軟正黑體', '標楷體', Arial">這個夏天，我們一行人前往香港進行的自助旅行，每天的行程只有大概的方向但是沒有詳細的規劃，有時是集體行動，但有時會各奔東西。在同樣的時空到達不同的地點，期待感受不同的體驗。 </p>
+<img src="images/about/about03.jpg" width="300" height="199" alt=""/>
+<hr>
+<h2 style="color: #C17071; font-family: '微軟正黑體', '標楷體', Arial;">關於旅行的記錄</h2>
+<p style="font-family: '微軟正黑體', '標楷體', Arial">在這個網站中將整理在這幾天中我們曾經去過的、玩過的、吃過的、感受過的點點滴滴，無論您去過或是沒去過香港都能在這些文字、照片中想起心中曾有的記憶，或是編織計劃下一個旅行。在這裡準備了以下的單元供您參考：</p>
+<img src="images/about/about04.jpg" width="300" height="199" alt=""/>
+<hr>
+<ol>
+  <li style="font-family: '微軟正黑體', '標楷體', Arial">	景點特搜：在香港旅遊時經過的景點，透過文字與圖片進行簡短介紹。</li>
+  <li style="font-family: '微軟正黑體', '標楷體', Arial">	文字旅行：記錄並分享旅行中的心情點滴。</li>
+  <li style="font-family: '微軟正黑體', '標楷體', Arial">	城市映像：分享旅行中的照片、影片等內容。</li>
+  <li style="font-family: '微軟正黑體', '標楷體', Arial">	相關資訊：提供在旅行前所準備的資訊。</li>
+  <li style="font-family: '微軟正黑體', '標楷體', Arial">	互動交流：提供一個可以互動交流的平台。<br>
+  </li>
+</ol>
+<hr>
+<p style="font-family: '微軟正黑體', '標楷體', Arial">最後，感謝旅行中曾給我們幫助、加油甚至是微笑的人們。</p>
+</body>
+</html>
+<!doctype html>
